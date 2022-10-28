@@ -1,0 +1,4 @@
+Before giving a mathematically precise definition, this is a brief example. The mapping
+
+{\displaystyle C=\{\,a\mapsto 0,b\mapsto 01,c\mapsto 011\,\}}C = \{\, a\mapsto 0, b\mapsto 01, c\mapsto 011\,\}
+is a code, whose source alphabet is the set {\displaystyle \{a,b,c\}}\{a,b,c\} and whose target alphabet is the set {\displaystyle \{0,1\}}\{0,1\}. Using the extension of the code, the encoded string 0011001 can be grouped into codewords as 0 011 0 01, and these in turn can be decoded to the sequence of source symbols acab.
